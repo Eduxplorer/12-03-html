@@ -109,3 +109,16 @@ h2 {
     color: #000;
     opacity: 0.1;
 }
+
+.centered-bg,
+.not-centered-bg {
+    background-image: url(../images/bridge.png);
+    width: 400px;
+    height: 400px;
+}
+
+.centered-bg {
+    border: 4px dotted purple;
+    background-position: center;
+    background-size: cover;
+}
