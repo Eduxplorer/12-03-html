@@ -24,6 +24,8 @@ body {
     font-size: 40px;
 }
 
+/* 10 Múltiplas Regras */
+
 h2 {
     border-bottom: 2px dotted red;
 }
@@ -34,4 +36,10 @@ h2 {
 
 #algum-titulo {
     border-bottom: 4px solid green;
+}
+
+/* 11 Nome da Cor */
+
+.color-name {
+    color: crimson;
 }
